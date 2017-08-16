@@ -3,3 +3,26 @@ Idea: focus on the four mobile goals in the center.
 2.go to the top right mobile goal, and send it to the red
 3.go to the bottom left, and send it to the blue
 4.go to the top left, and send it to the red
+	/*starts with 0,1400,1429,0,0
+	1.0,1400,1429,-780,-760
+	2.lift:1535,1555
+	3.turn: -1800, 1590,1610,-1330,-210
+	4.goes back: -2225,-1035 
+	5.restatt: 0, 1450,1460,0,0
+	6.goes back half way: +300, +300
+	7.rotate: 830,-330
+	8.goes back: -420, -1590
+	9.lift
+	10.goes back:-2035,-3375
+	11.goes forware: 60, -1285
+	12.rotate:370,-1495
+	13.goes back: -45, -1920
+	14.rotate:30,-2460
+	15.goes bavk:-1210,-3680
+	16.restart:0,0
+	17.goes forward:460,475
+	18.rotate:1150,40
+	19.goes back:-500,-`1675
+	20.goes back:-2045,-3100
+	21.goes forward:-1690,-2750
+	*/
